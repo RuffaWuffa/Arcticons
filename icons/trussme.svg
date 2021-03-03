@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:none;stroke:#fefefe;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <ellipse class="a" cx="25.04" cy="23.01" rx="6.95" ry="6.94"/>
+    <ellipse class="a" cx="37.49" cy="10.69" rx="3.34" ry="3.33"/>
+    <circle class="a" cx="37.49" cy="10.69" r="1.01"/>
+    <circle class="a" cx="12.02" cy="10.46" r=".6"/>
+    <ellipse class="a" cx="11.99" cy="36" rx="3.34" ry="3.33"/>
+    <circle class="a" cx="11.99" cy="36" r="1.01"/>
+    <path class="a" d="M9,7.41h3.34c3.66,0,3.56,6.15,0,6.16H9Z"/>
+    <circle class="a" cx="37.43" cy="41.42" r="1.08"/>
+    <circle class="a" cx="40.92" cy="41.42" r="1.08"/>
+    <circle class="a" cx="33.94" cy="41.42" r="1.08"/>
+    <path class="a" d="M32.37,39.38H42.5"/>
+    <path class="a" d="M5.51,15.21c.94.39,3.24,1.6,3.11-1.66V7.32C8.73,4.7,7,5.62,5.5,5.83Z"/>
+    <path class="a" d="m14.8 9h19.79"/>
+    <path class="a" d="m34.56 12.29h-20"/>
+    <path class="a" d="m13.79 13.17v20"/>
+    <path class="a" d="M10.6,33V13.58"/>
+    <path class="a" d="m15 34.54h19.56"/>
+    <circle class="a" cx="37.47" cy="35.98" r=".6"/>
+    <path class="a" d="m34.36 38.92v-3.33c0-3.66 6.16-3.56 6.18 0v3.33z"/>
+    <path class="a" d="m14.88 37.67h19.48"/>
+    <path class="a" d="M35.91,33.2V13.64"/>
+    <path class="a" d="m39.24 13.53v19.82"/>
+    <path class="a" d="m19.15 26.7-5.36 5.36"/>
+    <path class="a" d="M21.54,29,16,34.54"/>
+    <path class="a" d="m31.09 19.63 4.82-4.86"/>
+    <path class="a" d="m28.8 17.18 4.91-4.89"/>
+</svg>
