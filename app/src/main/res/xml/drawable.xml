@@ -244,6 +244,7 @@
 	  <item drawable="chess" />
 	  <item drawable="chieffollow" />
 	  <item drawable="chip" />
+	  <item drawable="chrome" />
 	  <item drawable="chromiumautoupdater" />
 	  <item drawable="chubbyclick" />
 	  <item drawable="cinelog" />
@@ -579,6 +580,7 @@
 	  <item drawable="jellyfin" />
 	  <item drawable="jitsimeet" />
 	  <item drawable="joplin" />
+	  <item drawable="jot" />
 	  <item drawable="jotatexteditor" />
 	  <item drawable="jsupdater" />
 	  <item drawable="juicessh" />
@@ -732,6 +734,7 @@
 	  <item drawable="megafon" />
 	  <item drawable="meinvodafone" />
 	  <item drawable="memetastic" />
+	  <item drawable="meraki" />
 	  <item drawable="merrickmobile" />
 	  <item drawable="mescompteslcl" />
 	  <item drawable="meshenger" />
@@ -1047,6 +1050,7 @@
 	  <item drawable="remotenumpad" />
 	  <item drawable="removed" />
 	  <item drawable="repeaterbook" />
+	  <item drawable="repeaterstart" />
 	  <item drawable="reroll" />
 	  <item drawable="retrica" />
 	  <item drawable="retroarch" />

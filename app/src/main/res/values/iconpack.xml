@@ -244,6 +244,7 @@
 	    <item>chess</item>
 	    <item>chieffollow</item>
 	    <item>chip</item>
+	    <item>chrome</item>
 	    <item>chromiumautoupdater</item>
 	    <item>chubbyclick</item>
 	    <item>cinelog</item>
@@ -579,6 +580,7 @@
 	    <item>jellyfin</item>
 	    <item>jitsimeet</item>
 	    <item>joplin</item>
+	    <item>jot</item>
 	    <item>jotatexteditor</item>
 	    <item>jsupdater</item>
 	    <item>juicessh</item>
@@ -732,6 +734,7 @@
 	    <item>megafon</item>
 	    <item>meinvodafone</item>
 	    <item>memetastic</item>
+	    <item>meraki</item>
 	    <item>merrickmobile</item>
 	    <item>mescompteslcl</item>
 	    <item>meshenger</item>
@@ -1047,6 +1050,7 @@
 	    <item>remotenumpad</item>
 	    <item>removed</item>
 	    <item>repeaterbook</item>
+	    <item>repeaterstart</item>
 	    <item>reroll</item>
 	    <item>retrica</item>
 	    <item>retroarch</item>
