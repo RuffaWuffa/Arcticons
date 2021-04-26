@@ -166,6 +166,7 @@
 	    <item>bring</item>
 	    <item>bromite</item>
 	    <item>browser</item>
+	    <item>brujeria</item>
 	    <item>bspb</item>
 	    <item>bubble</item>
 	    <item>budgetwatch</item>
@@ -341,6 +342,7 @@
 	    <item>drive</item>
 	    <item>droid48sx</item>
 	    <item>droidfish</item>
+	    <item>droidlife</item>
 	    <item>droidshows</item>
 	    <item>droidvim</item>
 	    <item>dropbox</item>
@@ -367,6 +369,7 @@
 	    <item>editor</item>
 	    <item>edslite</item>
 	    <item>eduroamcat</item>
+	    <item>electricalcalculations</item>
 	    <item>element</item>
 	    <item>eleven</item>
 	    <item>ella</item>
@@ -430,6 +433,7 @@
 	    <item>flowfreehexes</item>
 	    <item>flowfreewarps</item>
 	    <item>fluffychat</item>
+	    <item>fluid</item>
 	    <item>flux</item>
 	    <item>flym</item>
 	    <item>folderfavourites</item>
@@ -578,6 +582,7 @@
 	    <item>jamendo</item>
 	    <item>jelly</item>
 	    <item>jellyfin</item>
+	    <item>jiten</item>
 	    <item>jitsimeet</item>
 	    <item>joplin</item>
 	    <item>jot</item>
@@ -776,6 +781,7 @@
 	    <item>mitch</item>
 	    <item>mixplorer</item>
 	    <item>mlmanager</item>
+	    <item>mobiledocscanner</item>
 	    <item>mobilizon</item>
 	    <item>mobmuplat</item>
 	    <item>model3d</item>
@@ -951,6 +957,7 @@
 	    <item>passwordgenerator</item>
 	    <item>passwordkeeper</item>
 	    <item>pastebin</item>
+	    <item>pathos</item>
 	    <item>paypal</item>
 	    <item>pb</item>
 	    <item>pcivendevdatabase</item>
@@ -971,6 +978,8 @@
 	    <item>phonetrack</item>
 	    <item>phonograph</item>
 	    <item>photok</item>
+	    <item>pi</item>
+	    <item>pibrowser</item>
 	    <item>pimplepopper</item>
 	    <item>pin</item>
 	    <item>pinterest</item>
@@ -1085,6 +1094,7 @@
 	    <item>scrambledexif</item>
 	    <item>screencam</item>
 	    <item>screencast</item>
+	    <item>screeninfo</item>
 	    <item>screeps</item>
 	    <item>scummvm</item>
 	    <item>sdmaid</item>
@@ -1212,6 +1222,8 @@
 	    <item>suntimes</item>
 	    <item>suntimesalarms</item>
 	    <item>suntimescalendars</item>
+	    <item>sunvox</item>
+	    <item>superbackup</item>
 	    <item>superfreezz</item>
 	    <item>superuser</item>
 	    <item>surfshark</item>
@@ -1228,6 +1240,7 @@
 	    <item>taginfo</item>
 	    <item>tagwriter</item>
 	    <item>talalarmo</item>
+	    <item>talesofandrogyny</item>
 	    <item>tapnturn</item>
 	    <item>tasker</item>
 	    <item>tasks</item>
@@ -1262,6 +1275,7 @@
 	    <item>tk</item>
 	    <item>tmshappinest</item>
 	    <item>todoagenda</item>
+	    <item>todrlaeng</item>
 	    <item>toogoodtogo</item>
 	    <item>torbrowser</item>
 	    <item>torch</item>
@@ -1353,6 +1367,7 @@
 	    <item>wand</item>
 	    <item>warden</item>
 	    <item>waterdrinkreminder</item>
+	    <item>waveeditor</item>
 	    <item>waves</item>
 	    <item>waze</item>
 	    <item>wdbible</item>
@@ -1405,6 +1420,7 @@
 	    <item>yetanothercallblocker</item>
 	    <item>yetanothervideoplayer</item>
 	    <item>yoke</item>
+	    <item>yourlocalweather</item>
 	    <item>yourphone</item>
 	    <item>youtube</item>
 	    <item>youtubemusic</item>

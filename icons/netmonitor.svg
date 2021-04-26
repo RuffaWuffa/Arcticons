@@ -1,1 +1,18 @@
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="cls-1" d="M37.59,7.42V40.58H43.5V7.42ZM21.05,16.36V40.58H27V16.36Zm8.27,2.88V40.58h5.91V19.24Zm-24.82,6V40.58h5.91V25.22Zm8.27,3.25V40.58h5.91V28.47Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m21.857 27.712-8.6066 14.907a21.5 21.5 0 0 1-10.75-18.62h17.213"/>
+        <path d="m21.934 20.244-8.6188-14.928a21.5 21.5 0 0 1 21.5 4e-7l-8.6512 14.984"/>
+        <path d="m28.287 24h17.213a21.5 21.5 0 0 1-10.75 18.62l-8.6074-14.909"/>
+        <path d="m21.934 20.244-6.3908-11.069a17.044 17.044 0 0 1 17.044 3e-7l-6.423 11.125"/>
+        <path d="m21.934 20.244-4.2302-7.3269a12.723 12.723 0 0 1 12.723 0l-4.2625 7.3829"/>
+        <path d="m21.856 27.713-4.2811 7.415a12.849 12.849 0 0 1-6.4246-11.128h8.5623"/>
+        <path d="m21.857 27.713-6.3841 11.058a17.055 17.055 0 0 1-8.5275-14.77h12.768"/>
+        <path d="m28.287 24 8.5454 1e-6a12.833 12.833 0 0 1-6.4164 11.114l-4.273-7.401"/>
+        <path d="m28.287 24h12.818a17.105 17.105 0 0 1-8.5527 14.814l-6.4094-11.101"/>
+        <circle cx="24" cy="24" r="4.2872" stroke-miterlimit="2.6667" stroke-width="1.0016"/>
+    </g>
+</svg>

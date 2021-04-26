@@ -1,19 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <style/>
- <defs>
-  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
- </defs>
- <g fill="none" stroke="#fff">
-  <rect x="6.501" y="5.501" width="35.598" height="36.998" ry="4.1616" stroke-linecap="square"/>
-  <rect x="9.8666" y="8.2138" width="29.155" height="29.201" ry="3.255" stroke-linecap="square"/>
-  <g>
-   <path d="m10.636 9.4704-3.3764-2.7229"/>
-   <path d="m37.926 9.1333 3.0084-2.5803"/>
-   <path d="m37.84 36.47c0.08026 0.29499 3.126 4.5143 3.126 4.5143"/>
-   <path d="m10.894 36.792-3.4429 4.3532"/>
-  </g>
-  <path d="m25.421 21.09c2.0432-1.0523 6.3125-2.5976 6.2982 3.4474-7.6917-0.19889-7.4312 2.641-6.682 4.5844 0.71396 1.8522 6.682 0.45341 6.682-1.6238v-2.9606" stroke-linecap="round"/>
-  <path d="m27.967 17.898c0-0.68263 2.3309-2.7539 2.3309-3.367"/>
-  <path d="m31.719 24.537v6.0519"/>
- </g>
+    <style/>
+    <defs>
+        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <g fill="none" stroke="#fff">
+        <rect x="6.501" y="5.501" width="35.598" height="36.998" ry="4.1616" stroke-linecap="square"/>
+        <rect x="9.8666" y="8.2138" width="29.155" height="29.201" ry="3.255" stroke-linecap="square"/>
+        <path d="m10.636 9.4704-3.3764-2.7229"/>
+        <path d="m37.926 9.1333 3.0084-2.5803"/>
+        <path d="m37.84 36.47c0.08026 0.29499 3.126 4.5143 3.126 4.5143"/>
+        <path d="m10.894 36.792-3.4429 4.3532"/>
+        <path d="m25.421 21.09c2.0432-1.0523 6.3125-2.5976 6.2982 3.4474-7.6917-0.19889-7.4312 2.641-6.682 4.5844 0.71396 1.8522 6.682 0.45341 6.682-1.6238v-2.9606" stroke-linecap="round"/>
+        <path d="m27.967 17.898c0-0.68263 2.3309-2.7539 2.3309-3.367"/>
+        <path d="m31.719 24.537v6.0519"/>
+    </g>
 </svg>

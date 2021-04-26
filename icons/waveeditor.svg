@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <path class="a" d="m40.5 5.5h-33a2 2 0 0 0-2 2v33a2 2 0 0 0 2 2h33a2 2 0 0 0 2-2v-33a2 2 0 0 0-2-2z" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".9871"/>
+    <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".9871" stroke-width="1px">
+        <path d="m10.162 20.329v-9.3648c0-5.2859 9.7517-5.2859 9.7517 0v9.3648c0 4.5792-9.7517 4.5792-9.7517 0z"/>
+        <path d="m10.237 17.925c3.1998 0.64604 6.3927 0.64694 9.5993 0"/>
+        <path d="m9.0722 22.924h-2.0722c0.43194 2.051 2.5586 4.2891 6.9693 4.6202v3.7127h2.0461v-3.7127c5.1832-0.49332 6.6181-3.0842 7.001-4.6202h-1.9826c-1.3938 3.8918-10.758 3.683-11.962 0z"/>
+        <path d="m17.794 29.065 0.79733 4.587 0.74412-5.3819"/>
+        <path d="m21.269 27.606 1.0582 10.389 0.90545-12.158"/>
+        <path d="m23.668 21.075 0.61688-5.6021 1.8635 25.528 1.8109-25.56 1.9469 22.446 1.8464-16.855 1.8103 12.431 1.9645-8.3618 1.8351 6.5234 1.9182-4.3332 1.7191 1.8188"/>
+    </g>
+</svg>

@@ -589,6 +589,9 @@
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="jelly" />
     <item component="ComponentInfo{foundation.e.browser/com.google.android.apps.chrome.Main}" drawable="browser" />
 
+    <!-- Brujeria -->
+    <item component="ComponentInfo{com.emina.witchcraft1/com.emina.witchcraft1.Witchcraft1Activity}" drawable="brujeria" />
+
     <!-- BSPB -->
     <item component="ComponentInfo{ru.bspb/ru.bspb.MainActivity}" drawable="bspb" />
 
@@ -1116,6 +1119,9 @@
     <!-- DroidFish -->
     <item component="ComponentInfo{org.petero.droidfish/org.petero.droidfish.DroidFish}" drawable="droidfish" />
 
+    <!-- DroidLife -->
+    <item component="ComponentInfo{org.jtb.droidlife/org.jtb.droidlife.SeedersActivity}" drawable="droidlife" />
+
     <!-- DroidShows -->
     <item component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}" drawable="droidshows" />
 
@@ -1201,6 +1207,9 @@
 
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
+
+    <!-- Electrical Calculations -->
+    <item component="ComponentInfo{it.Ettore.calcolielettrici/it.Ettore.calcolielettrici.activityvarie.ActivityMain}" drawable="electricalcalculations" />
 
     <!-- Element -->
     <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element" />
@@ -1447,6 +1456,9 @@
 
     <!-- FluffyChat -->
     <item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat" />
+
+    <!-- Fluid -->
+    <item component="ComponentInfo{games.paveldogreat.fluidsim/games.paveldogreat.fluidsim.UnityPlayerActivity}" drawable="fluid" />
 
     <!-- f.lux -->
     <item component="ComponentInfo{com.justgetflux.flux/com.justgetflux.flux.FluxActivity}" drawable="flux" />
@@ -1962,6 +1974,9 @@
     <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.WebappActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.WebappActivity}" drawable="jellyfin" />
+
+    <!-- Jiten -->
+    <item component="ComponentInfo{dev.obfusk.jiten/org.kivy.android.PythonActivity}" drawable="jiten" />
 
     <!-- Jitsi Meet -->
     <item component="ComponentInfo{org.jitsi.meet/org.jitsi.meet.MainActivity}" drawable="jitsimeet" />
@@ -2542,6 +2557,9 @@
     <!-- ML Manager -->
     <item component="ComponentInfo{com.javiersantos.mlmanager/com.javiersantos.mlmanager.activities.MainActivity}" drawable="mlmanager" />
 
+    <!-- Mobile Doc Scanner -->
+    <item component="ComponentInfo{com.stoik.mdscan/com.stoik.mdscan.MainActivity}" drawable="mobiledocscanner" />
+
     <!-- MobilePay -->
     <item component="ComponentInfo{dk.danskebank.mobilepay/dk.danskebank.p2p.ui.login.LoginActivity}" drawable="mobilepay" />
 
@@ -2777,6 +2795,9 @@
 
     <!-- Net Monitor -->
     <item component="ComponentInfo{org.secuso.privacyfriendlynetmonitor/org.secuso.privacyfriendlynetmonitor.Activities.SplashActivity}" drawable="netmonitor" />
+
+    <!-- Net Monitor -->
+    <item component="ComponentInfo{ru.v_a_v.netmonitorpro/ru.v_a_v.netmonitorpro.StartActivity}" drawable="netmonitor" />
 
     <!-- NetworkMapper -->
     <item component="ComponentInfo{org.kost.nmap.android.networkmapper/org.kost.nmap.android.networkmapper.MainActivity}" drawable="networkmapper" />
@@ -3137,6 +3158,9 @@
     <!-- Pastebin -->
     <item component="ComponentInfo{pzy64.pastebinpro/pzy64.pastebinpro.Splash}" drawable="pastebin" />
 
+    <!-- Pathos -->
+    <item component="ComponentInfo{com.x10host.pathos/crc64654f181e2b0ba182.SplashActivity}" drawable="pathos" />
+
     <!-- PayPal -->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" />
 
@@ -3215,8 +3239,14 @@
     <!-- Photok -->
     <item component="ComponentInfo{dev.leonlatsch.photok/dev.leonlatsch.photok.MainLauncher}" drawable="photok" />
 
+    <!-- Pi Browser -->
+    <item component="ComponentInfo{pi.browser/com.pinetwork.MainActivity}" drawable="pibrowser" />
+
     <!-- PicSay Pro -->
     <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay" />
+
+    <!-- Pi -->
+    <item component="ComponentInfo{com.blockchainvault/com.pinetwork.MainActivity}" drawable="pi" />
 
     <!-- Pimple_Popper -->
     <item component="ComponentInfo{rocks.poopjournal.pimplepopper/com.godot.game.GodotApp}" drawable="pimple_popper" />
@@ -3609,6 +3639,9 @@
 
     <!-- Screencast -->
     <item component="ComponentInfo{org.cyanogenmod.screencast/org.cyanogenmod.screencast.MainActivity}" drawable="screencast" />
+
+    <!-- ScreenInfo -->
+    <item component="ComponentInfo{com.jotabout.screeninfo/com.jotabout.screeninfo.ScreenInfo}" drawable="screeninfo" />
 
     <!-- Screeps -->
     <item component="ComponentInfo{eu.ryuu.screeps/eu.ryuu.screeps.MainActivity}" drawable="screeps" />
@@ -4549,6 +4582,12 @@
     <!-- Suntimes -->
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
 
+    <!-- SunVox -->
+    <item component="ComponentInfo{nightradio.sunvox/nightradio.sunvox.MyNativeActivity}" drawable="sunvox" />
+
+    <!-- Super Backup -->
+    <item component="ComponentInfo{com.idea.backup.smscontacts/com.idea.backup.smscontacts.SplashActivity}" drawable="superbackup" />
+
     <!-- SuperFreezZ -->
     <item component="ComponentInfo{superfreeze.tool.android/superfreeze.tool.android.userInterface.mainActivity.MainActivity}" drawable="superfreezz" />
 
@@ -4612,6 +4651,9 @@
 
     <!-- Talalarmo -->
     <item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MainActivity}" drawable="talalarmo" />
+
+    <!-- Tales of Androgyny -->
+    <item component="ComponentInfo{com.majalis.talesofandrogyny/com.majalis.talesofandrogyny.AndroidLauncher}" drawable="talesofandrogyny" />
 
     <!-- Tap 'n' Turn -->
     <item component="ComponentInfo{com.gabm.screenrotationcontrol/com.gabm.tapandturn.ui.MainActivity}" drawable="tapnturn" />
@@ -4719,6 +4761,9 @@
     <!-- Todo Agenda -->
     <item component="ComponentInfo{org.andstatus.todoagenda/org.andstatus.todoagenda.MainActivity}" drawable="todoagenda" />
     <item component="ComponentInfo{com.plusonelabs.calendar/org.andstatus.todoagenda.MainActivity}" drawable="todoagenda" />
+
+    <!-- ToD RLA eng -->
+    <item component="ComponentInfo{id.application.todtljorcs/systems.altimit.rpgmakermv.WebPlayerActivity}" drawable="todrlaeng" />
 
     <!-- TooGoodToGo -->
     <item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.SplashActivity}" drawable="toogoodtogo" />
@@ -5032,6 +5077,9 @@
     <!-- Water Drink Reminder -->
     <item component="ComponentInfo{com.northpark.drinkwater/com.northpark.drinkwater.SplashActivity}" drawable="waterdrinkreminder" />
 
+    <!-- WaveEditor -->
+    <item component="ComponentInfo{io.sbaud.wavstudio/io.sbaud.wavstudio.activities.LoadActivity}" drawable="waveeditor" />
+
     <!-- Wave Lines Wallpaper -->
     <item component="ComponentInfo{de.markusfisch.android.wavelines/de.markusfisch.android.wavelines.activity.SplashActivity}" drawable="waves" />
 
@@ -5202,6 +5250,9 @@
 
     <!-- Yoke -->
     <item component="ComponentInfo{com.simonramstedt.yoke/com.simonramstedt.yoke.YokeActivity}" drawable="yoke" />
+
+    <!-- Your local weather -->
+    <item component="ComponentInfo{org.thosp.yourlocalweather/org.thosp.yourlocalweather.MainActivity}" drawable="yourlocalweather" />
 
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />

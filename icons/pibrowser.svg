@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+        <style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <circle class="a" cx="24" cy="24" r="21.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="18.091" y="12.272" width="3.3595" height="2.6273"/>
+        <rect x="25.517" y="12.272" width="3.3595" height="2.6273"/>
+        <path d="m35.62 17.491v-2.2952h-3.3177v2.2991h-17.299c-2.7133-0.03251-3.6353 1.2533-3.8382 3.0684v3.2772h3.3775v-3.0889h3.5191v16.119l3.5054-1.2618v-14.857h3.9434v16.119l3.4485-1.2618v-14.857h3.2914c2.1065-0.17006 3.1788-1.3044 3.3695-3.2606z"/>
+        <path d="m37.2 14.586 1.5599-0.82553c5.2574 7.5342 3.9614 17.825-3 23.82l-0.92-10.21-4.4711-1.3001"/>
+        <path d="m32 7.92c2.2031 1.0926 4.1572 2.6279 5.74 4.51l-7.0689 0.29529m-0.50564-1.9034 1.8345-2.9019"/>
+        <path d="m9.6943 19.821-2.8243-1.2608c1.8705-5.9142 6.6543-10.449 12.66-12l0.01 0.04 2.46 2.69-0.8613 1.5183"/>
+        <path d="m16.612 32.391-3.6122 5.7991c-1.0071-0.78063-1.9289-1.6656-2.75-2.64l-1.38-11.55 0.80521-0.53068"/>
+        <path d="m15.874 22.21 0.92497 0.33341"/>
+        <path d="m16.635 14.305-1.1553 0.75457-0.28761 0.92691"/>
+    </g>
+</svg>

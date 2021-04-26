@@ -166,6 +166,7 @@
 	  <item drawable="bring" />
 	  <item drawable="bromite" />
 	  <item drawable="browser" />
+	  <item drawable="brujeria" />
 	  <item drawable="bspb" />
 	  <item drawable="bubble" />
 	  <item drawable="budgetwatch" />
@@ -341,6 +342,7 @@
 	  <item drawable="drive" />
 	  <item drawable="droid48sx" />
 	  <item drawable="droidfish" />
+	  <item drawable="droidlife" />
 	  <item drawable="droidshows" />
 	  <item drawable="droidvim" />
 	  <item drawable="dropbox" />
@@ -367,6 +369,7 @@
 	  <item drawable="editor" />
 	  <item drawable="edslite" />
 	  <item drawable="eduroamcat" />
+	  <item drawable="electricalcalculations" />
 	  <item drawable="element" />
 	  <item drawable="eleven" />
 	  <item drawable="ella" />
@@ -430,6 +433,7 @@
 	  <item drawable="flowfreehexes" />
 	  <item drawable="flowfreewarps" />
 	  <item drawable="fluffychat" />
+	  <item drawable="fluid" />
 	  <item drawable="flux" />
 	  <item drawable="flym" />
 	  <item drawable="folderfavourites" />
@@ -578,6 +582,7 @@
 	  <item drawable="jamendo" />
 	  <item drawable="jelly" />
 	  <item drawable="jellyfin" />
+	  <item drawable="jiten" />
 	  <item drawable="jitsimeet" />
 	  <item drawable="joplin" />
 	  <item drawable="jot" />
@@ -776,6 +781,7 @@
 	  <item drawable="mitch" />
 	  <item drawable="mixplorer" />
 	  <item drawable="mlmanager" />
+	  <item drawable="mobiledocscanner" />
 	  <item drawable="mobilizon" />
 	  <item drawable="mobmuplat" />
 	  <item drawable="model3d" />
@@ -951,6 +957,7 @@
 	  <item drawable="passwordgenerator" />
 	  <item drawable="passwordkeeper" />
 	  <item drawable="pastebin" />
+	  <item drawable="pathos" />
 	  <item drawable="paypal" />
 	  <item drawable="pb" />
 	  <item drawable="pcivendevdatabase" />
@@ -971,6 +978,8 @@
 	  <item drawable="phonetrack" />
 	  <item drawable="phonograph" />
 	  <item drawable="photok" />
+	  <item drawable="pi" />
+	  <item drawable="pibrowser" />
 	  <item drawable="pimplepopper" />
 	  <item drawable="pin" />
 	  <item drawable="pinterest" />
@@ -1085,6 +1094,7 @@
 	  <item drawable="scrambledexif" />
 	  <item drawable="screencam" />
 	  <item drawable="screencast" />
+	  <item drawable="screeninfo" />
 	  <item drawable="screeps" />
 	  <item drawable="scummvm" />
 	  <item drawable="sdmaid" />
@@ -1212,6 +1222,8 @@
 	  <item drawable="suntimes" />
 	  <item drawable="suntimesalarms" />
 	  <item drawable="suntimescalendars" />
+	  <item drawable="sunvox" />
+	  <item drawable="superbackup" />
 	  <item drawable="superfreezz" />
 	  <item drawable="superuser" />
 	  <item drawable="surfshark" />
@@ -1228,6 +1240,7 @@
 	  <item drawable="taginfo" />
 	  <item drawable="tagwriter" />
 	  <item drawable="talalarmo" />
+	  <item drawable="talesofandrogyny" />
 	  <item drawable="tapnturn" />
 	  <item drawable="tasker" />
 	  <item drawable="tasks" />
@@ -1262,6 +1275,7 @@
 	  <item drawable="tk" />
 	  <item drawable="tmshappinest" />
 	  <item drawable="todoagenda" />
+	  <item drawable="todrlaeng" />
 	  <item drawable="toogoodtogo" />
 	  <item drawable="torbrowser" />
 	  <item drawable="torch" />
@@ -1353,6 +1367,7 @@
 	  <item drawable="wand" />
 	  <item drawable="warden" />
 	  <item drawable="waterdrinkreminder" />
+	  <item drawable="waveeditor" />
 	  <item drawable="waves" />
 	  <item drawable="waze" />
 	  <item drawable="wdbible" />
@@ -1405,6 +1420,7 @@
 	  <item drawable="yetanothercallblocker" />
 	  <item drawable="yetanothervideoplayer" />
 	  <item drawable="yoke" />
+	  <item drawable="yourlocalweather" />
 	  <item drawable="yourphone" />
 	  <item drawable="youtube" />
 	  <item drawable="youtubemusic" />

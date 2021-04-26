@@ -1,98 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 48 48"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="just24hours.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
-  <path
-     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 8.9676234,14.171593 v 5.052994 C 15.628169,14.661532 18.746384,18.042004 16.221707,21.4823 l -7.2540836,6.345307 v 4.115018 l 13.8688436,-0.03076 v -4.2272 h -7.10178 C 31.935197,14.212123 15.265194,11.188936 8.9676234,14.171593 Z"
-     id="path8124-3"
-     sodipodi:nodetypes="ccccccccc" />
-  <style
-     id="style1381" />
-  <metadata
-     id="metadata12">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#595959"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2096"
-     id="namedview10"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:zoom="9.765625"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg8"
-     inkscape:document-rotation="0" />
-  <defs
-     id="defs4">
-    <style
-       id="style2">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <circle
-     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.00309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path8120"
-     cx="24"
-     cy="24"
-     r="21.498455" />
-  <path
-     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 29.321274,24.166495 h 3.59066 V 18.96578 Z"
-     id="path8132"
-     sodipodi:nodetypes="cccc" />
-  <path
-     id="path8128"
-     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 24.878743 25.421871 L 24.873049 28.713586 L 32.944206 28.713586 L 33.011846 31.981899 L 38.133037 31.976767 L 38.133037 31.976767 L 38.133037 28.713651 L 40.757172 28.713651 L 40.757172 24.481554 L 38.181315 24.481554 L 38.181315 13.176166 L 32.258418 13.176166 L 25.348902 23.45038 " />
-  <path
-     id="path1957"
-     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 38.181719 14.554472 A 17.037947 17.037947 0 0 1 41.042969 24.005022 L 41.042969 24.005022 A 17.037947 17.037947 0 0 1 40.757392 27.111424 " />
-  <path
-     id="path2016"
-     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 10.63971,13.500068 c 3.219759,-4.2656759 8.020891,-6.5329925 13.365312,-6.5329927 5.091748,10e-8 9.916638,2.2772621 13.153128,6.2080417"
-     sodipodi:nodetypes="csc" />
-  <path
-     id="path2039"
-     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 40.379541 28.71318 A 17.037947 17.037947 0 0 1 24.005022 41.042969 A 17.037947 17.037947 0 0 1 6.9670753 24.005022 A 17.037947 17.037947 0 0 1 8.9673999 15.994932 " />
-  <path
-     id="rect2044"
-     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 23.423537 24.566012 L 23.157757 24.566012 L 23.157757 14.815808 L 23.157757 14.815808 L 24.846243 14.815808 L 24.846243 23.261298 " />
-  <path
-     style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 24.040383,22.959534 12.929534,4.856081 -0.717266,1.887673 -12.931602,-4.866929 z"
-     id="path2056" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <path d="m8.9676 14.172v5.053c6.6605-4.5631 9.7788-1.1826 7.2541 2.2577l-7.2541 6.3453v4.115l13.869-0.03076v-4.2272h-7.1018c16.201-13.473-0.46949-16.496-6.7671-13.513z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+    <style/>
+    <defs>
+        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+    </defs>
+    <circle cx="24" cy="24" r="21.498" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="7" stroke-width="1.0031"/>
+    <path d="m29.321 24.166h3.5907v-5.2007z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+    <path d="m24.879 25.422-0.005694 3.2917h8.0712l0.06764 3.2683 5.1212-0.005132v0-3.2631h2.6241v-4.2321h-2.5759v-11.305h-5.9229l-6.9095 10.274" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+    <path d="m38.182 14.554a17.038 17.038 0 0 1 2.8612 9.4506v0a17.038 17.038 0 0 1-0.28558 3.1064" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m10.64 13.5c3.2198-4.2657 8.0209-6.533 13.365-6.533 5.0917 1e-7 9.9166 2.2773 13.153 6.208" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m40.38 28.713a17.038 17.038 0 0 1-16.375 12.33 17.038 17.038 0 0 1-17.038-17.038 17.038 17.038 0 0 1 2.0003-8.0101" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m23.424 24.566h-0.26578v-9.7502 0h1.6885v8.4455" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m24.04 22.96 12.93 4.8561-0.71727 1.8877-12.932-4.8669z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
 </svg>
